@@ -1,4 +1,4 @@
-# Skill India Ml/AI Internship
+# Skill India Ml/AI Internship Inventory Management System
 In this repository i have uploaded all the codes for Inventory Management System with the JSON files and the IPYNB files
 
 -----
